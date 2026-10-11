@@ -1,0 +1,1639 @@
+﻿Dataset,Repositorio,Imagen,Etiqueta original,Clase,Origen
+Laboratorio,Lindll/maize-leaf-disease,test[0],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[1],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[2],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[3],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[4],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[5],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[6],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[7],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[8],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[9],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[10],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[11],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[12],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[13],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[14],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[15],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[16],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[17],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[18],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[19],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[20],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[21],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[22],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[23],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[24],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[25],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[26],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[27],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[28],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[29],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[30],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[31],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[32],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[33],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[34],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[35],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[36],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[37],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[38],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[39],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[40],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[41],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[42],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[43],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[44],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[45],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[46],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[47],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[48],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[49],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[50],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[51],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[52],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[53],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[54],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[55],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[56],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[57],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[58],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[59],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[60],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[61],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[62],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[63],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[64],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[65],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[66],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[67],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[68],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[69],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[70],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[71],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[72],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[73],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[74],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[75],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[76],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[77],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[78],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[79],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[80],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[81],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[82],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[83],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[84],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[85],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[86],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[87],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[88],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[89],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[90],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[91],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[92],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[93],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[94],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[95],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[96],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[97],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[98],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[99],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[100],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[101],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[102],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[103],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[104],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[105],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[106],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[107],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[108],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[109],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[110],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[111],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[112],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[113],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[114],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[115],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[116],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[117],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[118],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[119],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[120],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[121],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[122],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[123],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[124],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[125],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[126],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[127],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[128],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[129],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[130],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[131],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[132],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[133],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[134],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[135],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[136],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[137],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[138],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[139],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[140],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[141],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[142],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[143],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[144],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[145],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[146],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[147],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[148],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[149],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[150],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[151],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[152],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[153],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[154],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[155],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[156],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[157],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[158],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[159],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[160],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[161],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[162],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[163],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[164],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[165],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[166],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[167],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[168],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[169],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[170],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[171],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[172],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[173],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[174],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[175],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[176],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[177],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[178],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[179],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[180],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[181],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[182],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[183],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[184],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[185],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[186],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[187],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[188],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[189],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[190],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[191],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[192],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[193],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[194],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[195],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[196],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[197],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[198],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[199],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[200],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[201],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[202],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[203],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[204],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[205],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[206],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[207],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[208],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[209],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[210],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[211],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[212],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[213],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[214],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[215],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[216],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[217],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[218],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[219],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[220],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[221],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[222],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[223],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[224],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[225],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[226],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[227],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[228],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[229],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[230],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[231],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[232],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[233],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[234],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[235],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[236],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[237],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[238],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[239],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[240],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[241],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[242],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[243],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[244],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[245],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[246],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[247],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[248],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[249],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[250],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[251],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[252],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[253],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[254],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[255],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[256],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[257],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[258],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[259],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[260],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[261],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[262],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[263],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[264],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[265],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[266],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[267],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[268],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[269],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[270],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[271],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[272],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[273],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[274],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[275],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[276],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[277],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[278],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[279],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[280],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[281],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[282],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[283],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[284],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[285],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[286],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[287],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[288],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[289],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[290],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[291],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[292],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[293],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[294],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[295],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[296],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[297],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[298],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[299],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[300],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[301],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[302],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[303],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[304],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[305],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[306],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[307],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[308],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[309],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[310],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[311],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[312],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[313],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[314],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[315],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[316],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[317],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[318],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[319],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[320],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[321],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[322],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[323],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[324],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[325],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[326],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[327],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[328],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[329],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[330],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[331],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[332],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[333],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[334],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[335],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[336],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[337],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[338],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[339],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[340],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[341],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[342],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[343],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[344],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[345],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[346],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[347],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[348],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[349],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[350],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[351],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[352],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[353],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[354],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[355],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[356],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[357],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[358],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[359],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[360],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[361],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[362],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[363],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[364],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[365],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[366],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[367],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[368],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[369],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[370],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[371],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[372],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[373],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[374],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[375],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[376],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[377],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[378],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[379],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[380],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[381],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[382],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[383],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[384],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[385],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[386],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[387],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[388],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[389],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[390],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[391],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[392],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[393],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[394],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[395],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[396],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[397],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[398],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[399],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[400],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[401],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[402],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[403],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[404],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[405],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[406],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[407],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[408],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[409],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[410],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[411],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[412],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[413],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[414],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[415],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[416],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[417],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[418],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[419],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[420],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[421],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[422],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[423],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[424],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[425],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[426],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[427],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[428],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[429],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[430],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[431],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[432],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[433],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[434],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[435],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[436],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[437],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[438],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[439],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[440],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[441],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[442],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[443],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[444],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[445],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[446],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[447],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[448],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[449],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[450],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[451],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[452],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[453],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[454],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[455],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[456],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[457],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[458],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[459],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[460],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[461],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[462],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[463],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[464],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[465],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[466],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[467],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[468],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[469],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[470],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[471],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[472],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[473],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[474],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[475],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[476],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[477],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[478],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[479],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[480],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[481],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[482],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[483],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[484],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[485],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[486],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[487],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[488],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[489],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[490],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[491],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[492],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[493],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[494],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[495],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[496],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[497],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[498],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[499],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[500],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[501],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[502],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[503],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[504],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[505],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[506],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[507],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[508],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[509],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[510],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[511],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[512],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[513],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[514],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[515],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[516],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[517],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[518],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[519],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[520],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[521],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[522],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[523],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[524],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[525],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[526],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[527],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[528],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[529],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[530],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[531],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[532],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[533],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[534],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[535],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[536],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[537],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[538],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[539],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[540],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[541],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[542],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[543],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[544],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[545],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[546],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[547],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[548],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[549],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[550],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[551],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[552],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[553],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[554],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[555],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[556],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[557],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[558],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[559],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[560],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[561],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[562],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[563],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[564],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[565],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[566],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[567],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[568],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[569],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[570],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[571],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[572],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[573],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[574],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[575],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[576],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[577],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[578],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[579],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[580],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[581],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[582],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[583],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[584],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[585],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[586],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[587],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[588],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[589],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[590],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[591],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[592],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[593],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[594],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[595],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[596],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[597],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[598],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[599],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[600],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[601],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[602],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[603],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[604],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[605],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[606],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[607],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[608],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[609],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[610],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[611],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[612],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[613],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[614],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[615],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[616],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[617],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[618],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[619],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[620],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[621],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[622],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[623],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[624],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[625],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[626],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[627],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[628],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[629],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[630],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[631],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[632],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[633],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[634],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[635],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[636],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[637],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[638],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[639],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[640],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[641],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[642],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[643],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[644],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[645],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[646],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[647],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[648],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[649],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[650],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[651],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[652],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[653],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[654],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[655],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[656],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[657],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[658],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[659],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[660],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[661],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[662],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[663],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[664],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[665],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[666],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[667],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[668],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[669],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[670],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[671],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[672],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[673],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[674],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[675],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[676],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[677],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[678],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[679],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[680],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[681],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[682],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[683],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[684],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[685],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[686],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[687],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[688],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[689],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[690],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[691],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[692],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[693],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[694],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[695],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[696],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[697],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[698],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[699],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[700],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[701],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[702],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[703],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[704],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[705],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[706],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[707],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[708],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[709],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[710],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[711],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[712],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[713],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[714],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[715],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[716],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[717],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[718],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[719],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[720],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[721],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[722],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[723],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[724],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[725],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[726],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[727],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[728],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[729],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[730],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[731],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[732],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[733],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[734],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[735],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[736],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[737],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[738],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[739],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[740],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[741],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[742],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[743],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[744],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[745],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[746],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[747],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[748],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[749],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[750],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[751],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[752],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[753],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[754],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[755],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[756],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[757],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[758],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[759],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[760],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[761],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[762],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[763],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[764],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[765],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[766],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[767],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[768],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[769],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[770],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[771],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[772],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[773],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[774],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[775],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[776],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[777],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[778],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[779],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[780],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[781],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[782],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[783],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[784],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[785],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[786],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[787],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[788],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[789],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[790],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[791],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[792],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[793],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[794],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[795],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[796],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[797],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[798],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[799],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[800],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[801],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[802],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[803],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[804],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[805],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[806],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[807],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[808],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[809],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[810],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[811],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[812],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[813],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[814],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[815],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[816],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[817],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[818],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[819],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[820],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[821],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[822],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[823],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[824],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[825],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[826],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[827],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[828],Gray_Leaf_Spot,Mancha gris,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[829],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[830],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[831],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[832],Blight,Tizón,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[833],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[834],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[835],Common_Rust,Roya común,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[836],Healthy,Sana,Laboratorio
+Laboratorio,Lindll/maize-leaf-disease,test[837],Blight,Tizón,Laboratorio
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/10_2019-03-13--Cedara-DKB-DSC_0300_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/1273_IMG_3867_SR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/1367_IMG_3628_SR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/1383_IMG_3639_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/1650_2012_03_DSC1750_maize_diverse_1-C-AC-DK-273_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/202_2019-03-13--Cedara-DKB-DSC_0255_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/209_2019-03-13--Cedara-DKB-DSC_0316_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/2212_20200309_091614_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/2267_20200309_103141_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/259_2019-03-13--Cedara-DKB-DSC_0315_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/268_2019-03-13--Cedara-DKB-DSC_0010_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/278_2019-03-13--Cedara-DKB-DSC_0037_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/340_IMG_20190316_094248_1_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/347_IMG_20190316_083217_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/351_IMG_20190316_093925_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/386_IMG_20190316_080808_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/393_IMG_20190316_085037_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/397_IMG_20190316_091803_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/414_IMG_20190316_092010_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/415_IMG_20190316_091120_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/426_IMG_20190316_074307_SR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/431_IMG_20190316_094248_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/436_IMG_20190316_092103_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/438_IMG_20190316_080937_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/440_IMG_20190316_093644_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/442_IMG_20190316_091526_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/471_IMG_20190316_075101_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/479_IMG_20190316_091339_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/499_IMG_20190316_092252_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/503_IMG_20190316_083155_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/514_IMG_20190316_092712_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/545_20190313_145502_SR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/55_2019-03-13--Cedara-DKB-DSC_0220_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/593_20190313_145528_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/651_20190313_145635_SR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/671_20190313_111506_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/734_20190313_111234_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/787_IMG_20190316_084343_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/797_IMG_20190316_085239_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/7_2019-03-13--Cedara-DKB-DSC_0235_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/808_IMG_20190316_081413_BURST001_COVER_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/832_IMG_20190316_085709_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/844_IMG_20190316_084417_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/849_IMG_20190316_092707_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/855_IMG_20190316_091421_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/869_IMG_20190316_091514_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/897_IMG_20190316_090024_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/89_2019-03-13--Cedara-DKB-DSC_0289_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/911_IMG_20190316_090139_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/947_IMG_20190316_090218_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/968_IMG_20190316_092209_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/974_IMG_20190316_092753_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/977_IMG_20190316_085229_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/979_IMG_20190316_081548_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/984_IMG_20190316_080141_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/990_IMG_20190316_092451_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/991_IMG_20190316_090136_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/9_2019-03-13--Cedara-DKB-DSC_0007_CR.jpg,CommonRust,Roya común,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_1274.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_1295.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_144.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_157.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_160.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_177.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_18.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_180.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_182.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_185.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_187.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_193.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_195.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_197.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_201.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_204.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_21.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_211.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_212.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_214.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_219.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_229.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_231.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_234.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_241.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_245.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_247.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_253.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_275.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_276.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_278.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_279.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_282.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_284.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_288.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_298.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_302.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_303.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_323.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_330.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_331.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_340.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_357.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_365.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_370.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_372.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_388.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_389.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_4.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_410.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_413.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_417.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_424.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_445.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_452.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_457.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_458.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_46.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_463.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_473.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_479.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_48.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_489.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_490.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_491.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_494.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_50.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_52.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_526.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_53.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_564.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_569.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_57.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_570.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_580.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_592.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_599.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_618.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_622.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_626.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_627.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_636.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_637.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_642.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_653.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_667.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_686.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_687.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_691.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_70.jpg,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_710.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_713.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_721.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_726.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_73.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_738.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_744.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_763.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_766.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_769.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_772.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_775.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_78.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_780.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_784.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_785.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_796.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_803.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_808.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_810.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_811.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_817.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_825.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_836.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_855.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_867.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_869.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_875.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_876.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_877.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_88.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_89.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_890.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_895.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_90.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_903.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_909.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_913.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_930.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_943.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_948.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_95.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_954.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_961.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_962.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_969.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_97.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_970.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_972.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_976.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_986.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CommonRust/Corn_Common_Rust_989.JPG,CommonRust,Roya común,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1032_18_CIMG3752_1-131-2_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1056_94_CIMG3829_1-268-1_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1142_27_CIMG3762_1-145-2_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1192_68_CIMG3803_1-193-1_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1237_IMG_3716_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1343_IMG_3696_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1354_IMG_3757_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/135_2019-03-13--Cedara-DKB-DSC_0017_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1371_IMG_3688_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1411_IMG_3743_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1417_IMG_3868_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1418_IMG_3842_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1438_IMG_3692_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1456_IMG_3777_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1457_IMG_3693_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1461_IMG_3779_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1462_IMG_3682_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1475_IMG_3719_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1492_IMG_20190227_113224_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1493_IMG_20190227_103856_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1502_IMG_20190227_112759_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1507_IMG_20190227_113005_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1511_IMG_20190227_113131_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/159_2019-03-13--Cedara-DKB-DSC_0181_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1675_2012_03_DSC1955_maize_diverse-R-Pn-DK-28_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1975_20200309_102123_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1989_20200309_101851_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/1997_20200309_102742_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2009_20200309_101823_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2018_20200309_091608_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2028_20200309_102702_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2050_20200309_102623_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2083_20200309_102620_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2127_20200309_102145_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2139_20200309_091421_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2159_20200309_102130_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2212_20200309_091614_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2263_20200309_101810_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2302_IMG_20200226_084051_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2311_IMG_20200302_111643_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2317_IMG_20200226_084347_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2321_IMG_20200302_112201_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2337_IMG_20200302_112203_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/2374_IMG_20200318_121643_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/296_2019-03-13--Cedara-DKB-DSC_0166_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/306_2019-03-13--Cedara-DKB-DSC_0257_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/338_IMG_20190316_083706_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/341_IMG_20190316_082850_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/354_IMG_20190316_093747_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/357_IMG_20190316_083811_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/376_IMG_20190316_082848_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/391_IMG_20190316_084349_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/400_IMG_20190316_074311_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/478_IMG_20190316_082139_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/487_IMG_20190316_085910_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/513_IMG_20190316_084322_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/516_IMG_20190316_075455_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/538_20190313_143628_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/639_20190313_143011_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/651_20190313_145635_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/705_20190313_121935_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/732_20190313_143326_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/736_20190313_152520_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/76_2019-03-13--Cedara-DKB-DSC_0049_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/849_IMG_20190316_092707_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/857_IMG_20190316_092656_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/869_IMG_20190316_091514_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/886_IMG_20190316_092302_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/88_2019-03-13--Cedara-DKB-DSC_0182_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/895_IMG_20190316_081940_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/906_IMG_20190316_083804_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/910_IMG_20190316_083725_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/915_IMG_20190316_083135_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/956_IMG_20190316_085638_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/961_IMG_20190316_081817_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/969_IMG_20190316_082902_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/96_2019-03-13--Cedara-DKB-DSC_0146_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/971_IMG_20190316_084702_NCLB.jpg,CornLeafBlight,Tizón,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1096.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1125.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1129.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1135.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1140.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_1141.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_131.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_137.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_138.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_142.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_153.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_163.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_164.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_168.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_20.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_21.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_217.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_228.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_238.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_266.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_284.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_304.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_314.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_324.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_327.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_329.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_334.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_335.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_342.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_358.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_363.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_365.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_366.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_373.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_378.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_38.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_393.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_4.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_401.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_411.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_423.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_428.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_43.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_438.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_446.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_457.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_464.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_472.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_480.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_482.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_486.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_511.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_517.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_518.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_521.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_549.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_560.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_564.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_574.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_577.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_582.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_585.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_587.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_591.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_60.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_601.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_603.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_605.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_607.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_61.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_619.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_623.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_627.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_635.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_638.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_648.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_652.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_653.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_659.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_661.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_662.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_681.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_682.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_70.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_712.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_727.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_730.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_754.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_755.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_76.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_775.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_777.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_788.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_790.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_791.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_798.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_80.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_805.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_808.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_816.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_82.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_823.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_827.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_83.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_852.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_86.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_87.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_882.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_887.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_905.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_908.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_91.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_919.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_928.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_93.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_932.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_941.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_952.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_954.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_971.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_979.JPG,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/CornLeafBlight/Corn_Blight_983.jpg,CornLeafBlight,Tizón,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1000_57_CIMG3792_1-390-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1003_222_CIMG3959_1-239-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1010_124_CIMG3860_1-379-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1049_142_CIMG3878_1-125-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1051_114_CIMG3850_1-322-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1059_70_CIMG3805_1-259-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1081_170_CIMG3906_1-138-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1082_228_CIMG3965_1-333-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1084_35_CIMG3770_1-CML-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1093_192_CIMG3928_1-116-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1097_168_CIMG3904_1-284-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1104_108_CIMG3844_1-156-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1144_82_CIMG3817_1-282-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1145_221_CIMG3958_1-239-1_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1151_111_CIMG3847_1-109-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1176_152_CIMG3888_1-10-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1195_39_CIMG3774_1-362-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1214_104_CIMG3839_1-43-2_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1226_IMG_3819_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1229_IMG_3786_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1230_IMG_3705_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1257_IMG_3808_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1275_IMG_3762_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1291_IMG_3796_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/12_2019-03-13--Cedara-DKB-DSC_0065_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1317_IMG_3767_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1361_IMG_3834_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1362_IMG_3818_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/137_2019-03-13--Cedara-DKB-DSC_0305_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1395_IMG_3675_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1397_IMG_3744_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1405_IMG_3665_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1438_IMG_3692_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1456_IMG_3777_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1460_IMG_3714_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1463_IMG_3827_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1469_IMG_3732_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1470_IMG_3836_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1521_2012_03_DSC1916_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1524_2012_03_DSC1740_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1527_2012_03_DSC1943_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1531_2012_03_DSC1737_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1536_2012_03_DSC1968_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1541_2012_03_DSC1981_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1543_2012_03_DSC1920_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1572_2012_03_DSC1777_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1579_2012_03_DSC1771_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1597_2012_03_DSC1686_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1608_2012_03_DSC1723_maize_diverse_1-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1609_2012_03_DSC1980_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1626_2012_03_DSC1732_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1638_2012_03_DSC1978_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/166_2019-03-13--Cedara-DKB-DSC_0234_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1672_2012_03_DSC1898_maize_diverse-R-Pn-DK-28_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1679_2012_03_DSC1796_maize_diverse-C-AC-DK-273_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1697_2012_03_IMG_6460_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/169_2019-03-13--Cedara-DKB-DSC_0051_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1704_2012_03_IMG_6573_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1707_2012_03_IMG_6275_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1710_2012_03_IMG_6435_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1711_2012_03_IMG_6352_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1726_2012_03_IMG_6437_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1739_2012_03_IMG_6419_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1744_2012_03_IMG_6500_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/175_2019-03-13--Cedara-DKB-DSC_0047_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1767_2012_03_IMG_6351_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1785_2012_03_IMG_6584_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1793_2012_03_IMG_6327_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1798_2012_03_IMG_6301_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1799_2012_03_IMG_6504_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1809_2012_03_IMG_6540_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1817_2012_03_IMG_6514_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1846_2012_03_IMG_6585_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1864_2012_03_IMG_6456_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1867_2012_03_IMG_6431_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1877_2012_03_IMG_6564_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1882_2012_03_IMG_6349_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1892_2012_03_IMG_6348_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1895_2012_03_IMG_6403_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1905_2012_03_IMG_6409_maize_diverse_JM-C-Ac_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1918_2012_03_IMG_6533_maize_diverse_JM-R-Pn_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1934_20200309_092859_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1960_20200309_101805_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1967_20200309_092621_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1992_20200309_092455_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/1996_20200309_092604_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/199_2019-03-13--Cedara-DKB-DSC_0268_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2009_20200309_101823_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/206_2019-03-13--Cedara-DKB-DSC_0210_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2086_20200309_092721_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2092_20200309_090613_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/211_2019-03-13--Cedara-DKB-DSC_0119_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2142_20200309_092857_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2178_20200309_091001_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2179_20200309_101754_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2225_20200309_090217_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2232_20200309_092557_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2236_20200309_090620_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2238_20200309_102251_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2276_IMG_20200302_111849_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2278_IMG_20200302_111653_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2284_IMG_20200309_103945_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2293_IMG_20200309_104018_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2294_IMG_20200323_103725_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2300_IMG_20200226_084328_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2309_IMG_20200302_111646_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2310_IMG_20200323_103955_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2314_IMG_20200309_105511_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2330_IMG_20200226_135353_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2342_IMG_20200323_103820_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2345_IMG_20200226_084654_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2353_IMG_20200323_103832_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2356_IMG_20200226_135206_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2367_IMG_20200226_084359_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/2370_IMG_20200302_111719_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/250_2019-03-13--Cedara-DKB-DSC_0299_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/251_2019-03-13--Cedara-DKB-DSC_0063_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/252_2019-03-13--Cedara-DKB-DSC_0276_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/270_2019-03-13--Cedara-DKB-DSC_0176_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/299_2019-03-13--Cedara-DKB-DSC_0158_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/38_2019-03-13--Cedara-DKB-DSC_0132_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/3_2019-03-13--Cedara-DKB-DSC_0198_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/526_20190313_142135_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/540_20190313_122156_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/541_20190313_153518_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/564_20190313_112039_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/580_20190313_142529_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/588_20190313_115603_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/58_2019-03-13--Cedara-DKB-DSC_0233_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/636_20190313_115529_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/678_20190313_115622_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/735_20190313_144609_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/741_20190313_143452_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/754_20190313_152638_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/75_2019-03-13--Cedara-DKB-DSC_0115_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/760_20190313_114901_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/792_IMG_20190316_084959_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/827_IMG_20190316_081736_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/887_IMG_20190316_085630_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/912_IMG_20190316_084210_GLS.jpg,GreyLeafSpot,Mancha gris,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_219.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_229.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_232.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_259.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_270.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_276.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_279.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_280.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_298.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_309.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_310.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_317.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_319.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_346.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_348.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_366.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_367.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_375.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_378.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_383.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_390.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_393.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_398.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_403.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_409.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_415.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_423.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_430.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_455.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_458.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_463.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_465.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_471.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_472.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_473.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_474.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_478.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_48.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_483.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_485.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_489.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_494.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_498.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_500.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_505.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_514.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_516.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_531.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_532.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_533.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_541.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_555.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_573.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_58.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_59.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_75.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_87.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_89.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_9.jpg,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/GreyLeafSpot/Corn_Gray_Spot_90.JPG,GreyLeafSpot,Mancha gris,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/135_2019-03-13--Cedara-DKB-DSC_0017_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/147_2019-03-13--Cedara-DKB-DSC_0020_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/156_2019-03-13--Cedara-DKB-DSC_0139_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1617_2012_03_DSC1919_maize_diverse-R-Pn-DK-28_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1632_2012_03_DSC1762_maize_diverse-C-AC-DK-273_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1633_2012_03_DSC1959_maize_diverse-R-Pn-DK-28_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1642_2012_03_DSC1746_maize_diverse-C-AC-DK-273_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1752_2012_03_IMG_6375_maize_diverse_JM-C-Ac_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1766_2012_03_IMG_6389_maize_diverse_JM-C-Ac_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/179_2019-03-13--Cedara-DKB-DSC_0265_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1815_2012_03_IMG_6367_maize_diverse_JM-C-Ac_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1834_2012_03_IMG_6486_maize_diverse_JM-R-Pn_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1961_20200309_092701_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/1965_20200309_093424_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2012_20200309_092333_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2024_20200309_093028_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2097_20200309_103344_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2110_20200309_093639_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2134_20200309_093520_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2145_20200309_092939_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2223_20200309_103456_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/2249_20200309_092941_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/22_2019-03-13--Cedara-DKB-DSC_0202_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/240_2019-03-13--Cedara-DKB-DSC_0164_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/273_2019-03-13--Cedara-DKB-DSC_0246_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/286_2019-03-13--Cedara-DKB-DSC_0285_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/301_2019-03-13--Cedara-DKB-DSC_0136_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/445_IMG_20190316_090101_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/556_20190313_120353_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/592_20190313_122031_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/603_20190313_144555_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/63_2019-03-13--Cedara-DKB-DSC_0247_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/684_20190313_153626_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/720_20190313_144941_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/733_20190313_143854_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/83_2019-03-13--Cedara-DKB-DSC_0083_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/916_IMG_20190316_083831_NoFoliarSymptoms.jpg,NoFoliarSymptoms,Sana,Foto de campo
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1019.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1022.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1023.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1043.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1046.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1050.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1066.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1077.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1094.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1107.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1109.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1122.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1131.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1132.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1136.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1143.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1146.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1148.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_115.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_1155.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_121.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_128.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_135.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_139.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_140.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_143.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_144.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_145.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_148.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_151.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_160.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_168.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_172.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_175.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_190.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_194.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_197.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_199.JPG,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_204.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_208.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_21.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_210.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_222.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_238.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_246.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_251.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_260.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_27.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_270.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_285.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_290.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_295.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_299.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_3.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_305.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_314.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_315.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_318.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_323.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_324.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_336.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_340.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_344.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_35.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_363.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_376.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_379.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_388.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_395.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_398.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_401.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_412.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_413.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_414.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_421.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_427.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_441.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_445.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_447.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_460.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_462.JPG,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_469.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_470.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_473.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_486.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_495.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_499.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_5.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_506.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_521.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_527.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_534.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_543.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_547.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_552.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_553.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_555.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_558.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_563.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_569.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_574.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_575.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_588.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_591.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_595.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_596.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_597.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_6.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_600.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_607.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_629.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_649.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_658.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_679.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_680.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_689.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_690.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_692.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_697.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_702.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_72.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_720.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_736.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_74.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_747.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_758.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_763.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_773.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_788.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_789.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_795.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_802.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_808.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_812.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_815.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_820.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_831.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_841.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_843.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_852.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_868.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_881.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_887.JPG,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_890.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_895.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_896.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_898.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_915.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_918.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_928.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_929.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_930.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_945.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_948.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_958.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_97.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_971.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_976.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_979.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_981.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_986.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_99.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
+Campo,muAtarist/maize_foliar_diseases,train/NoFoliarSymptoms/Corn_Health_999.jpg,NoFoliarSymptoms,Sana,Tipo PlantVillage
