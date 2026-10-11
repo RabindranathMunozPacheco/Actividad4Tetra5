@@ -1,0 +1,4 @@
+Modelo,Parámetros (M),Tamaño (MB),F1 campo,F1 lab,Caída F1 (pts),Top-1 otro cultivo campo (%),Enferma → Sana campo (%),Sana → Enferma campo (%),Latencia CPU (ms)
+MobileNetV2,2.3,9.1,0.725,0.868,14.3,7.6,4.5,8.5,60.6
+ResNet-50,23.6,94.3,0.738,0.873,13.5,6.0,4.5,7.000000000000001,211.4
+ViT-base,85.8,343.3,0.771,0.921,15.0,0.9,1.0,11.5,670.6

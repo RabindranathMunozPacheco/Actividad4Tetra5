@@ -1,0 +1,7 @@
+Modelo,Dispositivo,Preproceso (ms),Inferencia mediana (ms),Inferencia p95 (ms),Total mediana (ms),Imágenes/s
+MobileNetV2,GPU T4,4.5,23.1,39.0,28.0,35.7
+ResNet-50,GPU T4,2.7,11.8,32.1,15.3,65.5
+ViT-base,GPU T4,2.0,12.9,14.0,14.9,67.1
+MobileNetV2,CPU,2.5,52.0,82.8,54.6,18.3
+ResNet-50,CPU,2.8,230.9,468.6,233.9,4.3
+ViT-base,CPU,1.4,382.2,534.4,383.5,2.6

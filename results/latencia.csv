@@ -1,0 +1,4 @@
+Modelo,Dispositivo,Preproceso (ms),Inferencia mediana (ms),Inferencia p95 (ms),Total mediana (ms),Imágenes/s
+MobileNetV2,CPU,2.8,57.7,65.8,60.6,16.5
+ResNet-50,CPU,2.1,209.3,313.2,211.4,4.7
+ViT-base,CPU,1.7,668.7,1065.5,670.6,1.5

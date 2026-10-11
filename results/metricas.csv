@@ -1,0 +1,7 @@
+Modelo,Dataset,Accuracy,Precision (macro),Recall (macro),F1 (macro)
+MobileNetV2,Laboratorio,0.896,0.866,0.87,0.868
+MobileNetV2,Campo,0.725,0.727,0.725,0.725
+ResNet-50,Laboratorio,0.896,0.869,0.882,0.873
+ResNet-50,Campo,0.735,0.753,0.735,0.738
+ViT-base,Laboratorio,0.934,0.914,0.936,0.921
+ViT-base,Campo,0.765,0.804,0.765,0.771
